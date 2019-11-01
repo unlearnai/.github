@@ -10,9 +10,10 @@ Addresses #`$ISSUES`. @`$POTENTIAL_REVIEWERS`
 
 ## Pre-merge Checklist
 
+- [ ] reference issues (no bare PRs!)
 - [ ] add new tests (if appropriate)
 - [ ] update `CHANGELOG.md` (if appropriate)
 - [ ] update docstrings for any new functions or function arguments including references to requirements and design docs (if appropriate)
 
-Note that your PR will not be reviewed unless all three boxes are checked.
+Note that your PR will not be reviewed unless all boxes are checked.
 
