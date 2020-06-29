@@ -1,6 +1,6 @@
 ## Description
 
-Addresses #`$ISSUES`. @`$POTENTIAL_REVIEWERS`
+Resolves #`$ISSUES`. @`$POTENTIAL_REVIEWERS`
 
 *What does the proposed change do? Does it satisfy the spec? Who worked on this previously?*
 
