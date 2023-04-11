@@ -2,12 +2,11 @@
 
 Resolves #`$ISSUES`. @`$POTENTIAL_REVIEWERS`
 
-*What does the proposed change do? Does it satisfy the spec? Who worked on this previously?*
+*What does the proposed change do? Does it satisfy a specification? Who worked on this previously?*
 
 ## Changes to Specifications
 
-*What sections have been affected in the specification due to this change? Use track changes on our google docs!*
-
+*If there are any specifications or design docs associated by this change, what are the relevant changes?*
 **Reviewers: make sure to review the spec changes in addition to the code changes!**
 
 ## References
