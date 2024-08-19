@@ -14,12 +14,11 @@ Resolves #`$ISSUES`. @`$POTENTIAL_REVIEWERS`
 *Any additional documentation, references*
 
 ## Pre-merge Checklist
-- [ ] update all technical documentation associated with the change (specifications, design docs)
-- [ ] reference updated sections in the technical documentation
-- [ ] reference issues (no bare PRs!)
+- [ ] reference issues for PRs into develop or main (no bare PRs!)
 - [ ] add new tests (if appropriate)
 - [ ] update `CHANGELOG.md` (if appropriate)
 - [ ] update docstrings for any new functions or function arguments including references to requirements and design docs (if appropriate)
+- [ ] update all technical documentation associated with the change (if appropriate)
 
 Note that your PR will not be reviewed unless all boxes are checked.
 
