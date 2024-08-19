@@ -7,19 +7,16 @@ assignees: ''
 
 ---
 
-## Proposed Changes
+## Design and Rationale
 
-*A clear description of the improvements, including references to the design documentation. Why is this change necessary?*
+*A clear description of the feature and the rationale for it.*
+*What alternatives were considered when choosing this implementation?*
 
 ## Proposed Implementation
 
 *A high-level summary of the implementation strategy.*
 
-## Rationale
-
-*What alternatives were considered when choosing this implementation?*
-
-## Expected Changes
+## Expected Changes and Validation
 
 *How will current behavior change as a result of this change? What will need to be validated?*
 
